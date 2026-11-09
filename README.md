@@ -13,8 +13,4 @@ Provide the references that you have used to support your assignment
 
 possible topics: 
 
-1. Task / To-Do Manager
-Create, update, complete, and delete tasks. Good for learning basic CRUD. Add due dates or categories to stretch it.
-
-2. Personal Expense Tracker
-Log expenses with amount, category, and date, then query totals by month or category. Introduces MongoDB aggregation.
+Movie Watchlist and Review App. Users add titles, mark them watched, rate and review them. Add genre filters and an “average rating” aggregation.
