@@ -13,4 +13,4 @@ Provide the references that you have used to support your assignment
 
 possible topics: 
 
-Movie Watchlist and Review App. Users add titles, mark them watched, rate and review them. Add genre filters and an “average rating” aggregation.
+Movie Watchlist and Review manager for my anime list. Users add titles, mark them watched, rate and review them. Add genre filters and an “average rating” aggregation.
