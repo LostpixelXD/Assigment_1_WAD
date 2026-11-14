@@ -31,6 +31,45 @@ let db = {
         }
     },
 
+    async getAllMedia() {
+        try {
+            let results = await media.find();
+            return results;
+        }
+        catch(e) {
+            console.log(e.message);
+            throw new Error("Error retrieving media entries");
+        }
+    },
+
+    async updateReview(title, rating, review) {
+        try {
+            let result = await media.findOneAndUpdate(
+                { title: title },
+                { rating: rating, review: review }
+            );
+            if (!result) return "Unable to find record to update.";
+            else return `Record '${title}' is updated!`;
+        }
+        catch(e) {
+            console.log(e.message);
+            throw new Error("Error updating review");
+        }
+    },
+
+    
+    async deleteMediaByTitle(title) {
+        try {
+            let result = await media.findOneAndDelete({ title: title });
+            if (!result) return "Unable to find a record to delete.";
+            else return `Record '${title}' is deleted!`;
+        }
+        catch(e) {
+            console.log(e.message);
+            throw new Error("Error deleting media item");
+        }
+    }
+
 };
 
 module.exports = db;
