@@ -47,6 +47,7 @@ let handleOption = function(option){
 }
 rl.question(questions, handleOption);
 
+// Option 7: Disconnect from database
 rl.on("close", function() {
     console.log("\nProgram Shutdown");
     process.exit(0);
