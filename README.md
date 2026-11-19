@@ -8,6 +8,11 @@ You can press **Ctrl+Shift+V** in this file in Visual Studio Code to see a live 
 
 For some tips in formatting text in readme file, refer to https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+# Introduction
+
+This node module will be used to streamline the process of updating watched/read anime or manga progress on https://myanimelist.net/.
+The user can upload the names and reviews of media they are watching to a database and update their myanimelist profile at a later date
+
 # Getting started
 Run the program in visual studio code terminal using nodemon Alphonse_AnimeManager
 
@@ -33,6 +38,9 @@ follow the prompts from the node app console after selecting one of the 7 option
 
 # References
 Provide the references that you have used to support your assignment
+
+Website used:
+https://myanimelist.net/
 
 AI usage disclosure:
 
