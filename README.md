@@ -9,11 +9,23 @@ You can press **Ctrl+Shift+V** in this file in Visual Studio Code to see a live 
 For some tips in formatting text in readme file, refer to https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 # Getting started
-Run the program in visual studio code terminal using nodemon app
+Run the program in visual studio code terminal using nodemon Alphonse_AnimeManager
 
 # Functions
 
-1.
+Option 1: Connect to database
+
+Option 2: Add Anime/Manga entry
+
+Option 3: Update review and rating by title
+
+Option 4: Delete entry by title
+
+Option 5: Print summary report of completed series & read manga
+
+Option 6: Get raw list from DB
+
+Option 7: Disconnect from database
 
 # References
 Provide the references that you have used to support your assignment
