@@ -8,9 +8,16 @@ You can press **Ctrl+Shift+V** in this file in Visual Studio Code to see a live 
 
 For some tips in formatting text in readme file, refer to https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+# Getting started
+Run the program in visual studio code terminal using nodemon app
+
+# Functions
+
+1.
+
 # References
 Provide the references that you have used to support your assignment
 
-possible topics: 
+AI usage disclosure:
 
-Anime and Manga Watchlist and Review manager for my anime list. Users add titles, mark them watched, rate and review them. Add genre filters and an “average rating” aggregation.
+Use of claude AI for topic planning and creation of database structure
