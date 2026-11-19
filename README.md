@@ -27,6 +27,10 @@ Option 6: Get raw list from DB
 
 Option 7: Disconnect from database
 
+# How to use
+
+follow the prompts from the node app console after selecting one of the 7 options 
+
 # References
 Provide the references that you have used to support your assignment
 
