@@ -14,27 +14,23 @@ This node module will be used to streamline the process of updating watched/read
 The user can upload the names and reviews of media they are watching to a database and update their myanimelist profile at a later date
 
 # Getting started
-Run the program in visual studio code terminal using nodemon Alphonse_AnimeManager
+Run the program in visual studio code terminal using nodemon app
 
 # Functions
 
-Option 1: Connect to database
 
-Option 2: Add Anime/Manga entry
 
-Option 3: Update review and rating by title
+1: Add Anime/Manga entry
 
-Option 4: Delete entry by title
+2: Update review and rating by title
 
-Option 5: Print summary report of completed series & read manga
+3: Delete entry by title
 
-Option 6: Get raw list from DB
+4: Print summary report of completed series & read manga
 
-Option 7: Disconnect from database
+5: Get raw list from DB
 
-# How to use
 
-follow the prompts from the node app console after selecting one of the 7 options 
 
 # References
 Provide the references that you have used to support your assignment
